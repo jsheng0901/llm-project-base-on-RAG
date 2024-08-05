@@ -144,3 +144,5 @@ content/Advanced Retrieval for AI with Chroma/L4-Query expansion.ipynb
 content/Advanced Retrieval for AI with Chroma/L6-Embedding Adaptors.ipynb
 content/Advanced Retrieval for AI with Chroma/L1-student.ipynb
 content/Advanced Retrieval for AI with Chroma/images/基于Chroma的高级检索技术.xmind
+docs
+*.pdf
